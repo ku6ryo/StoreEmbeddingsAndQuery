@@ -1,0 +1,1 @@
+Example of registering text embeddings vectors to Pinecone and query it.
